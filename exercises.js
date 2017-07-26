@@ -37,6 +37,7 @@ function greaterThanFifty(num) {
     //return true if num is greater than fifty
     //otherwise return false
     //code here
+    return num > 50;
 }
 
 function add(x, y) {
