@@ -16,6 +16,7 @@ function areSameLength(str1, str2) {
     //return true if the two strings have the same length
     //otherwise return false
     //code here
+    return str1.length === str2.length;
 }
 
 function areEqual(x, y) {
