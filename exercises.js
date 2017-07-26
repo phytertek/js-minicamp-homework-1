@@ -66,6 +66,7 @@ function multiply(x, y) {
 function getRemainder(x, y) {
     //return the remainder from dividing x by y
     //code here
+    return x % y;
 }
 
 function isEven(num) {
