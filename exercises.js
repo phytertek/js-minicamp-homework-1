@@ -92,6 +92,7 @@ function square(num) {
 function cube(num) {
     //cube num and return the new value
     //code here
+    return num ** 3;
 }
 
 function raiseToPower(num, exponent) {
