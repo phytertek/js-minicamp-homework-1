@@ -104,6 +104,7 @@ function raiseToPower(num, exponent) {
 function roundNumber(num) {
     //round num and return it
     //code here
+    return Math.round(num);
 }
 
 function roundUp(num) {
