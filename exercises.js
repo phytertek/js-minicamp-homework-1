@@ -86,7 +86,7 @@ function isOdd(num) {
 function square(num) {
     //square num and return the new value
     //code here
-    return num * num;
+    return num ** 2;
 }
 
 function cube(num) {
