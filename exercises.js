@@ -73,6 +73,7 @@ function isEven(num) {
     //return true if num is even
     //otherwise return false
     //code here
+    return num % 2 === 0;
 }
 
 function isOdd(num) {
