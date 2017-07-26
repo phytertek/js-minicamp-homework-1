@@ -43,6 +43,7 @@ function greaterThanFifty(num) {
 function add(x, y) {
     //add x and y together and return the value
     //code here
+    return x + y;
 }
 
 function subtract(x, y) {
