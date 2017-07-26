@@ -23,13 +23,14 @@ function areEqual(x, y) {
     //return true if x and y are the same
     //otherwise return false
     //code here
-    return x === y
+    return x === y;
 }
 
 function lessThanNinety(num) {
     //return true if num is less than ninety
     //otherwise return false
     //code here
+    return num < 90;
 }
 
 function greaterThanFifty(num) {
